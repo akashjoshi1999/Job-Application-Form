@@ -35,19 +35,19 @@
   <div class="mb-6">
       <label for="exampleInputPassword1" class="form-label">Skills</label><br>
       <div class="form-check form-check-inline">
-      <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
+      <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="C" name='skill[]'>
       <label class="form-check-label" for="inlineCheckbox1">C</label>
     </div>
     <div class="form-check form-check-inline">
-      <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
+      <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="C++" name='skill[]'>
       <label class="form-check-label" for="inlineCheckbox2">C++</label>
     </div>
     <div class="form-check form-check-inline">
-      <input class="form-check-input" type="checkbox" id="inlineCheckbox3" value="option3">
+      <input class="form-check-input" type="checkbox" id="inlineCheckbox3" value="JAVA" name='skill[]'>
       <label class="form-check-label" for="inlineCheckbox3">JAVA</label>
     </div>
     <div class="form-check form-check-inline">
-      <input class="form-check-input" type="checkbox" id="inlineCheckbox3" value="option3">
+      <input class="form-check-input" type="checkbox" id="inlineCheckbox3" value="PHP" name='skill[]'>
       <label class="form-check-label" for="inlineCheckbox3">PHP</label>
     </div>
   </div>
