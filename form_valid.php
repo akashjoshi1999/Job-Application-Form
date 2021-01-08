@@ -1,4 +1,5 @@
-<?php
+<?php   
+    require 'connection.php';
     $name = $email = "";
     $err = ""; 
     $target_dir = "uploads/";
